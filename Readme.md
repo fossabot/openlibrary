@@ -1,6 +1,7 @@
 # Open Library
 
 [![Build Status](https://travis-ci.org/internetarchive/openlibrary.svg?branch=master)](https://travis-ci.org/internetarchive/openlibrary) [![Join the chat at https://gitter.im/theopenlibrary/Lobby](https://badges.gitter.im/theopenlibrary/Lobby.svg)](https://gitter.im/theopenlibrary/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDeydeq%2Fopenlibrary.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FDeydeq%2Fopenlibrary?ref=badge_shield)
 
 [Open Library](https://openlibrary.org) is an open, editable library catalog, building towards a web page for every book ever published.
 
@@ -76,3 +77,5 @@ Integration tests use the Splinter webdriver with Google Chrome. For instruction
 ## License
 
 All source code published here is available under the terms of the [GNU Affero General Public License, version 3](https://www.gnu.org/licenses/agpl-3.0.html).
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDeydeq%2Fopenlibrary.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDeydeq%2Fopenlibrary?ref=badge_large)
